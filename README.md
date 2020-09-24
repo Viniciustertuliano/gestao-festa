@@ -9,4 +9,5 @@ Projeto feito seguindo a de datida do livro (Desenvolvimento Web com Spring Boot
 
 | Preview |
 | ------- |
-|<img alt="page" title="#page" src=".github/listaConvidados.jpeg"/>|
+![page](https://raw.githubusercontent.com/Viniciustertuliano/gestao-festa/master/.github/listaConvidados.png)
+|<img alt="page" title="#page" src=".github/listaConvidados.png"/>|
